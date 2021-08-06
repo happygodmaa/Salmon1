@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enfinity xsi:schemaLocation="http://www.intershop.com/xml/ns/enfinity/7.1/xcs/impex catalog.xsd http://www.intershop.com/xml/ns/enfinity/6.5/core/impex-dt dt.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.intershop.com/xml/ns/enfinity/7.1/xcs/impex" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:dt="http://www.intershop.com/xml/ns/enfinity/6.5/core/impex-dt" major="6" minor="1" family="enfinity" branch="enterprise" build="3.0.0.0-develop-20200219.2">
+<offer sku="380918">
+<sku>380918</sku>
+<long-description xml:lang="en-US">Ideal for corporate office and home cinema installations, producing high quality colour images&lt;BR&gt;4:3 multimedia format screen and plug &apos;n&apos; play technology - connects into standard mains electricity socket, no professional wiring required&lt;BR&gt;Hassle-free projection, simple wall mounted switch to raise or lower screen, or use the remote control provided from anywhere in the room&lt;BR&gt;Discreet wall or ceiling mounting using integral end brackets&lt;BR&gt;Ultra smooth motor operation with a 3 year warranty&lt;BR&gt;Flame retardant matt white screen&lt;BR&gt;Non returnable</long-description>
+<name xml:lang="en-US">Nobo Electric Wall Projection Screen 1920 x 1440mm, Diagonal Viewing 2400mm</name>
+<short-description xml:lang="en-US">Ideal for corporate office and home cinema installations, producing high quality colour images&lt;BR&gt;4:3 multimedia format screen and plug &apos;n&apos; play technology - connects into standard mains electricity socket, no professional wiring required&lt;BR&gt;Hassle-free projection, simple wall mounted switch to raise or lower screen, or use the remote control provided from anywhere in the room&lt;BR&gt;Discreet wall or ceiling mounting using integral end brackets&lt;BR&gt;Ultra smooth motor operation with a 3 year warranty&lt;BR&gt;Flame retardant matt white screen&lt;BR&gt;Non returnable</short-description>
+<product-list-prices>
+<product-list-price currency="EUR" net-price="1">12.000000</product-list-price>
+</product-list-prices>
+<product-links>
+<product-link sku = "380914" domain = "Staples-C_BELUX">
+<product-link-type name="ES_UpSelling"></product-link-type>
+<quantity>0</quantity>
+<position>1.0</position>
+</product-link>
+</product-links>
+<offered-product sku="380917" domain="Staples-C_BELUX"/>
+<tax-class id = "1 - Full tax"/>
+<product-type name = "Basic" domain = "system"/>
+<online>1</online>
+<available>1</available>
+<availability-status>1</availability-status>
+<supplier>
+<supplier-name>Nobo</supplier-name>
+<supplier-sku>1901972</supplier-sku>
+</supplier>
+<manufacturer>
+<manufacturer-name>Nobo</manufacturer-name>
+<manufacturer-sku>1901972</manufacturer-sku>
+</manufacturer>
+<custom-attributes>
+<custom-attribute name="ECO" dt:dt="string">
+<value>eco1</value>
+<value>eco2</value>
+</custom-attribute>
+<custom-attribute name="GTIN" dt:dt="string">5028252172714</custom-attribute>
+<custom-attribute name="SPGS" dt:dt="string">2-21-259</custom-attribute>
+<custom-attribute name="brand-logo" dt:dt="string">IntershopBrandLogo/02/77/asset.4990277.jpg</custom-attribute>
+<custom-attribute name="exclude-from-search-index" dt:dt="boolean">false</custom-attribute>
+<custom-attribute name="product-status" dt:dt="string">ordereable</custom-attribute>
+<custom-attribute name="Brand" dt:dt="string" xml:lang="en-US">Nobo</custom-attribute>
+<custom-attribute name="Category of Accessory (Miscellaneous)" dt:dt="string" xml:lang="en-US">Projector accessories</custom-attribute>
+<custom-attribute name="Compliant Standards (Miscellaneous)" dt:dt="string" xml:lang="en-US">Plug and Play</custom-attribute>
+<custom-attribute name="Depth" dt:dt="string" xml:lang="en-US">16.7 cm</custom-attribute>
+<custom-attribute name="Diagonal Size" dt:dt="string" xml:lang="en-US">94 in</custom-attribute>
+<custom-attribute name="Diagonal Size (metric)" dt:dt="string" xml:lang="en-US">240 cm</custom-attribute>
+<custom-attribute name="Features" dt:dt="string" xml:lang="en-US">Remote control</custom-attribute>
+<custom-attribute name="Height" dt:dt="string" xml:lang="en-US">15.1 cm</custom-attribute>
+<custom-attribute name="Product Line" dt:dt="string" xml:lang="en-US">NOBO</custom-attribute>
+<custom-attribute name="Product Type (Miscellaneous)" dt:dt="string" xml:lang="en-US">Projection screen</custom-attribute>
+<custom-attribute name="Publication Brand" dt:dt="string" xml:lang="en-US">Nobo</custom-attribute>
+<custom-attribute name="Service Type" dt:dt="string" xml:lang="en-US">3-year warranty</custom-attribute>
+<custom-attribute name="Size" dt:dt="string" xml:lang="en-US">192 x 144 cm</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="en-US">each</custom-attribute>
+<custom-attribute name="Weight" dt:dt="string" xml:lang="en-US">10.31 kg</custom-attribute>
+<custom-attribute name="Width" dt:dt="string" xml:lang="en-US">231.5 cm</custom-attribute>
+</custom-attributes>
+</offer>
+<offer sku="Test">
+<sku>Test</sku>
+<long-description xml:lang="en-US">Test</long-description>
+<name xml:lang="en-US">TestProduct</name>
+<short-description xml:lang="en-US">Test</short-description>
+<product-list-prices>
+<product-list-price currency="EUR" net-price="1">122.000000</product-list-price>
+</product-list-prices>
+<offered-product sku="Test" domain="Staples-C_BELUX"/>
+<tax-class id = "NoTax"/>
+<product-type name = "Basic" domain = "system"/>
+<online>1</online>
+<available>1</available>
+<supplier>
+<supplier-name></supplier-name>
+<supplier-sku></supplier-sku>
+</supplier>
+<manufacturer>
+<manufacturer-name></manufacturer-name>
+<manufacturer-sku></manufacturer-sku>
+</manufacturer>
+<custom-attributes>
+<custom-attribute name="GiftWrappable" dt:dt="boolean">false</custom-attribute>
+<custom-attribute name="NeedsQuotation" dt:dt="boolean">false</custom-attribute>
+<custom-attribute name="WarrantyEligible" dt:dt="boolean">false</custom-attribute>
+</custom-attributes>
+</offer>
+<offer sku="328809">
+<sku>328809</sku>
+<long-description xml:lang="de-BE"></long-description>
+<name xml:lang="de-BE">Brother Brother DCP-J132W - Multifunktionsdrucker - Farbe</name>
+<long-description xml:lang="en-BE">Compact, mobile enabled A4 all-in-one inkjet printer&lt;BR&gt;Print, copy, scan&lt;BR&gt;Fast colour printing with print speeds of up to 6ipm colour and 11ipm mono&lt;BR&gt;Easy navigation and menu selection via the 1 line LCD display&lt;BR&gt;Built-in wireless networking&lt;BR&gt;Share with your workgroup via the built-in wireless 802.11b/g/n network interface&lt;BR&gt;High yield replacement cartridges help lower your operating costs&lt;BR&gt;Mobile printing and scanning&lt;BR&gt;Support for Brother iPrint&amp;Scan, Google Cloud Print, Apple AirPrint™ and Cortado WorkPlace&lt;BR&gt;Energy Star certified&lt;BR&gt;1 year limited warranty&lt;BR&gt;Non returnable</long-description>
+<name xml:lang="en-BE">Brother DCP-J132W Colour Inkjet Multi-Function Machine W410 x D374 x H161mm</name>
+<short-description xml:lang="en-BE">Compact, mobile enabled A4 all-in-one inkjet printer&lt;BR&gt;Print, copy, scan&lt;BR&gt;Fast colour printing with print speeds of up to 6ipm colour and 11ipm mono&lt;BR&gt;Easy navigation and menu selection via the 1 line LCD display&lt;BR&gt;Built-in wireless networking&lt;BR&gt;Share with your workgroup via the built-in wireless 802.11b/g/n network interface&lt;BR&gt;High yield replacement cartridges help lower your operating costs&lt;BR&gt;Mobile printing and scanning&lt;BR&gt;Support for Brother iPrint&amp;Scan, Google Cloud Print, Apple AirPrint™ and Cortado WorkPlace&lt;BR&gt;Energy Star certified&lt;BR&gt;1 year limited warranty&lt;BR&gt;Non returnable</short-description>
+<long-description xml:lang="fr-BE">3 fonctions : imprimante / copieur / scanner&lt;BR&gt;Vitesse 11 ppm en noir et 6 ppm en couleur&lt;BR&gt;Résolution 6000 x 1200 dpi&lt;BR&gt;Bac papier 100 feuilles&lt;BR&gt;Connexion USB + Wifi&lt;BR&gt;4 cartouches : LC121 série ou LC123 série&lt;BR&gt;Dimensions : L.41 x P.37 x H.16 cm</long-description>
+<name xml:lang="fr-BE">Brother Multifonction jet d&apos;encre DCP-J132W</name>
+<short-description xml:lang="fr-BE">3 fonctions : imprimante / copieur / scanner&lt;BR&gt;Vitesse 11 ppm en noir et 6 ppm en couleur&lt;BR&gt;Résolution 6000 x 1200 dpi&lt;BR&gt;Bac papier 100 feuilles&lt;BR&gt;Connexion USB + Wifi&lt;BR&gt;4 cartouches : LC121 série ou LC123 série&lt;BR&gt;Dimensions : L.41 x P.37 x H.16 cm</short-description>
+<long-description xml:lang="nl-BE">De DCP-J132W biedt diverse aansluitingsmogelijkheden en vele geavanceerde functies in een compacte machine. Maak rechtstreeks verbinding met uw draadloze netwerk en deel functies via Wi-Fi met meerdere gebruikers. Snel en eenvoudig losse of gebonden documenten kopiëren of scannen via de glasplaat. Direct printen van, en scannen naar diverse typen geheugenkaarten, zonder tussenkomst van een PC. Met Print 3.0 kunt u printen waar u maar wilt&lt;BR&gt;Printen via Google Cloud PrintTM&lt;BR&gt;Ingebouwde Brother apps&lt;BR&gt;Maximale printsnelheid 27 ppm in zwart-wit en 10 ppm in kleur&lt;BR&gt;11 ipm in zwart-wit en 6 ipm in kleur&lt;BR&gt;WLAN / USB&lt;BR&gt;100 vel papierlade&lt;BR&gt;Direct printen vanaf smartphone of tablet&lt;BR&gt;Airprint</long-description>
+<name xml:lang="nl-BE">Brother Multifunctional DCP-J132W inkjet</name>
+<short-description xml:lang="nl-BE">De DCP-J132W biedt diverse aansluitingsmogelijkheden en vele geavanceerde functies in een compacte machine. Maak rechtstreeks verbinding met uw draadloze netwerk en deel functies via Wi-Fi met meerdere gebruikers. Snel en eenvoudig losse of gebonden documenten kopiëren of scannen via de glasplaat. Direct printen van, en scannen naar diverse typen geheugenkaarten, zonder tussenkomst van een PC. Met Print 3.0 kunt u printen waar u maar wilt&lt;BR&gt;Printen via Google Cloud PrintTM&lt;BR&gt;Ingebouwde Brother apps&lt;BR&gt;Maximale printsnelheid 27 ppm in zwart-wit en 10 ppm in kleur&lt;BR&gt;11 ipm in zwart-wit en 6 ipm in kleur&lt;BR&gt;WLAN / USB&lt;BR&gt;100 vel papierlade&lt;BR&gt;Direct printen vanaf smartphone of tablet&lt;BR&gt;Airprint</short-description>
+<category-links>
+<category-link name="class-448441" domain="Staples-C_BELUX-staples-advantage" default = "0" hotdeal = "0"/>
+<category-link name="class-448439" domain="Staples-C_BELUX-staples-advantage" default = "1" hotdeal = "0"/>
+<category-link name="class-448440" domain="Staples-C_BELUX-staples-advantage" default = "0" hotdeal = "0"/>
+</category-links>
+<images>
+<image-ref image-view="front" image-type="L" image-base-name="IntershopLarge/35/92/asset.213592.jpg" />
+</images>
+<product-list-prices>
+<product-list-price currency="EUR" net-price="1">89.950000</product-list-price>
+</product-list-prices>
+<product-links>
+<product-link sku = "335602" domain = "Staples-C_BELUX">
+<product-link-type name="ES_Replacement"></product-link-type>
+<quantity>0</quantity>
+<position>1.0</position>
+</product-link>
+<product-link sku = "335155" domain = "Staples-C_BELUX">
+<product-link-type name="ES_UpSelling"></product-link-type>
+<quantity>0</quantity>
+<position>1.0</position>
+</product-link>
+</product-links>
+<offered-product sku="328809" domain="Staples-C_BELUX"/>
+<tax-class id = "NoTax"/>
+<product-type name = "Basic" domain = "system"/>
+<online>1</online>
+<available>1</available>
+<availability-status>1</availability-status>
+<supplier>
+<supplier-name>Brother</supplier-name>
+<supplier-sku>DCP-J132WRF1</supplier-sku>
+</supplier>
+<manufacturer>
+<manufacturer-name>Brother</manufacturer-name>
+<manufacturer-sku>DCP-J132WRF1</manufacturer-sku>
+</manufacturer>
+<custom-attributes>
+<custom-attribute name="GTIN" dt:dt="string">4977766722971</custom-attribute>
+<custom-attribute name="SPGS" dt:dt="string">2-43-463</custom-attribute>
+<custom-attribute name="brand-logo" dt:dt="string">IntershopBrandLogo/66/99/asset.5006699.jpg</custom-attribute>
+<custom-attribute name="exclude-from-search-index" dt:dt="boolean">false</custom-attribute>
+<custom-attribute name="product-status" dt:dt="string">phased-out</custom-attribute>
+<custom-attribute name="Anzahl Papierfächer" dt:dt="string" xml:lang="de-BE">1</custom-attribute>
+<custom-attribute name="Automatischer Duplexdruck" dt:dt="string" xml:lang="de-BE">Nein</custom-attribute>
+<custom-attribute name="Breite" dt:dt="string" xml:lang="de-BE">41 cm</custom-attribute>
+<custom-attribute name="Der Blaue Engel-zertifiziert" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Druckausgabetyp" dt:dt="string" xml:lang="de-BE">Farbe</custom-attribute>
+<custom-attribute name="Drucktechnologie" dt:dt="string" xml:lang="de-BE">Tintenstrahl</custom-attribute>
+<custom-attribute name="ENERGY STAR-zertifiziert" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Eingebautes Wi-Fi" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Farbtiefe" dt:dt="string" xml:lang="de-BE">24-Bit</custom-attribute>
+<custom-attribute name="Funktion" dt:dt="string" xml:lang="de-BE">
+<value>Drucker</value>
+<value>Scanner</value>
+<value>Kopiergerät</value>
+</custom-attribute>
+<custom-attribute name="Getrennte farbige Tinte" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Gewicht" dt:dt="string" xml:lang="de-BE">6.9 kg</custom-attribute>
+<custom-attribute name="Höhe" dt:dt="string" xml:lang="de-BE">16.1 cm</custom-attribute>
+<custom-attribute name="Installierte Arbeitsspeicher" dt:dt="string" xml:lang="de-BE">64 MB</custom-attribute>
+<custom-attribute name="Marke" dt:dt="string" xml:lang="de-BE">Brother</custom-attribute>
+<custom-attribute name="Max. Druckauflösung Farbe" dt:dt="string" xml:lang="de-BE">6000 x 1200 dpi</custom-attribute>
+<custom-attribute name="Maximale Auflösung S /W" dt:dt="string" xml:lang="de-BE">6000 x 1200 dpi</custom-attribute>
+<custom-attribute name="Maximale Druckgeschwindigkeit S / W (ppm)" dt:dt="string" xml:lang="de-BE">27 ppm</custom-attribute>
+<custom-attribute name="Microsoft Zertifizierung" dt:dt="string" xml:lang="de-BE">Compatible with Windows 7</custom-attribute>
+<custom-attribute name="Modell" dt:dt="string" xml:lang="de-BE">DCP-J132W</custom-attribute>
+<custom-attribute name="Papierfachkapazität" dt:dt="string" xml:lang="de-BE">100 Blätter</custom-attribute>
+<custom-attribute name="Produktfarbe" dt:dt="string" xml:lang="de-BE">Schwarz</custom-attribute>
+<custom-attribute name="Produktlinie" dt:dt="string" xml:lang="de-BE">Brother</custom-attribute>
+<custom-attribute name="Schallemission" dt:dt="string" xml:lang="de-BE">50 dBA</custom-attribute>
+<custom-attribute name="Service-Typ" dt:dt="string" xml:lang="de-BE">1 Jahr Garantie</custom-attribute>
+<custom-attribute name="Speichergröße" dt:dt="string" xml:lang="de-BE">64 MB</custom-attribute>
+<custom-attribute name="Standardkapazität (Anzahl der Blätter)" dt:dt="string" xml:lang="de-BE">100 Blätter</custom-attribute>
+<custom-attribute name="Tiefe" dt:dt="string" xml:lang="de-BE">37.4 cm</custom-attribute>
+<custom-attribute name="Transportbreite" dt:dt="string" xml:lang="de-BE">47.8 cm</custom-attribute>
+<custom-attribute name="Transporthöhe" dt:dt="string" xml:lang="de-BE">45.6 cm</custom-attribute>
+<custom-attribute name="Transporttiefe" dt:dt="string" xml:lang="de-BE">22.9 cm</custom-attribute>
+<custom-attribute name="Typ (Büromaschinen" dt:dt="string" xml:lang="de-BE">Drucker / Kopierer / Scanner</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="de-BE">Stück</custom-attribute>
+<custom-attribute name="Unterstützt Speicherkarten" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Versandgewicht" dt:dt="string" xml:lang="de-BE">8.4 kg</custom-attribute>
+<custom-attribute name="Wireless LAN unterstützt" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="max. Kopierauflösung (Farbe)" dt:dt="string" xml:lang="de-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="max. Kopierauflösung (S/W)" dt:dt="string" xml:lang="de-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="netzwerkfähig" dt:dt="string" xml:lang="de-BE">Nein</custom-attribute>
+<custom-attribute name="optische Auflösung" dt:dt="string" xml:lang="de-BE">1200 x 2400 dpi</custom-attribute>
+<custom-attribute name="unterstützt PictBridge" dt:dt="string" xml:lang="de-BE">Nein</custom-attribute>
+<custom-attribute name="Automatic Duplexing" dt:dt="string" xml:lang="en-BE">No</custom-attribute>
+<custom-attribute name="Blue Angel" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Brand" dt:dt="string" xml:lang="en-BE">Brother</custom-attribute>
+<custom-attribute name="Built-in Wi-Fi" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Colour Depth" dt:dt="string" xml:lang="en-BE">24-bit</custom-attribute>
+<custom-attribute name="Depth" dt:dt="string" xml:lang="en-BE">37.4 cm</custom-attribute>
+<custom-attribute name="Energy Star Qualified" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Functions" dt:dt="string" xml:lang="en-BE">
+<value>Printer</value>
+<value>Scanner</value>
+<value>Copier</value>
+</custom-attribute>
+<custom-attribute name="Height" dt:dt="string" xml:lang="en-BE">16.1 cm</custom-attribute>
+<custom-attribute name="Installed RAM Size" dt:dt="string" xml:lang="en-BE">64 MB</custom-attribute>
+<custom-attribute name="Max Copying Resolution Black and White" dt:dt="string" xml:lang="en-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max Copying Resolution Colour" dt:dt="string" xml:lang="en-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max Printing Resolution Black and White" dt:dt="string" xml:lang="en-BE">6000 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max Printing Resolution Colour" dt:dt="string" xml:lang="en-BE">6000 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max Printing Speed Black and White" dt:dt="string" xml:lang="en-BE">27 ppm</custom-attribute>
+<custom-attribute name="Memory Size" dt:dt="string" xml:lang="en-BE">64 MB</custom-attribute>
+<custom-attribute name="Microsoft Certification" dt:dt="string" xml:lang="en-BE">Compatible with Windows 7</custom-attribute>
+<custom-attribute name="Model" dt:dt="string" xml:lang="en-BE">DCP-J132W</custom-attribute>
+<custom-attribute name="Network connection available" dt:dt="string" xml:lang="en-BE">No</custom-attribute>
+<custom-attribute name="Number Of Paper Trays" dt:dt="string" xml:lang="en-BE">1</custom-attribute>
+<custom-attribute name="Paper Tray Capacity" dt:dt="string" xml:lang="en-BE">100 sheets</custom-attribute>
+<custom-attribute name="PictBridge compatible" dt:dt="string" xml:lang="en-BE">No</custom-attribute>
+<custom-attribute name="Printing Output Type" dt:dt="string" xml:lang="en-BE">Colour</custom-attribute>
+<custom-attribute name="Printing Technology" dt:dt="string" xml:lang="en-BE">Ink-jet</custom-attribute>
+<custom-attribute name="Product Line" dt:dt="string" xml:lang="en-BE">Brother</custom-attribute>
+<custom-attribute name="Product colour" dt:dt="string" xml:lang="en-BE">Black</custom-attribute>
+<custom-attribute name="Scanner Resolution" dt:dt="string" xml:lang="en-BE">1200 x 2400 dpi</custom-attribute>
+<custom-attribute name="Separate coloured ink" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Service Type" dt:dt="string" xml:lang="en-BE">1-year warranty</custom-attribute>
+<custom-attribute name="Shipping Depth" dt:dt="string" xml:lang="en-BE">22.9 cm</custom-attribute>
+<custom-attribute name="Shipping Height" dt:dt="string" xml:lang="en-BE">45.6 cm</custom-attribute>
+<custom-attribute name="Shipping Weight" dt:dt="string" xml:lang="en-BE">8.4 kg</custom-attribute>
+<custom-attribute name="Shipping Width" dt:dt="string" xml:lang="en-BE">47.8 cm</custom-attribute>
+<custom-attribute name="Sound Emission" dt:dt="string" xml:lang="en-BE">50 dBA</custom-attribute>
+<custom-attribute name="Standard Capacity (number of sheets)" dt:dt="string" xml:lang="en-BE">100 sheets</custom-attribute>
+<custom-attribute name="Supports Memory Cards" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Type (Office Machine)" dt:dt="string" xml:lang="en-BE">Printer / copier / scanner</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="en-BE">each</custom-attribute>
+<custom-attribute name="Weight" dt:dt="string" xml:lang="en-BE">6.9 kg</custom-attribute>
+<custom-attribute name="Width" dt:dt="string" xml:lang="en-BE">41 cm</custom-attribute>
+<custom-attribute name="Wireless LAN Supported" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Bac papier (nb feuilles)" dt:dt="string" xml:lang="fr-BE">100 feuilles</custom-attribute>
+<custom-attribute name="Capacité mémoire" dt:dt="string" xml:lang="fr-BE">64 MB</custom-attribute>
+<custom-attribute name="Certification Energy Star" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Certification Microsoft" dt:dt="string" xml:lang="fr-BE">Compatible with Windows 7</custom-attribute>
+<custom-attribute name="Connexion Réseau" dt:dt="string" xml:lang="fr-BE">Non</custom-attribute>
+<custom-attribute name="Connexion Wi-Fi" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Couleurs d&apos;encre séparées" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Fonctions" dt:dt="string" xml:lang="fr-BE">
+<value>Imprimante</value>
+<value>Scanner</value>
+<value>Photocopieuse</value>
+</custom-attribute>
+<custom-attribute name="Gamme" dt:dt="string" xml:lang="fr-BE">Brother</custom-attribute>
+<custom-attribute name="Hauteur" dt:dt="string" xml:lang="fr-BE">16.1 cm</custom-attribute>
+<custom-attribute name="Hauteur de l&apos;emballage" dt:dt="string" xml:lang="fr-BE">45.6 cm</custom-attribute>
+<custom-attribute name="Label Blue Angel" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Largeur" dt:dt="string" xml:lang="fr-BE">41 cm</custom-attribute>
+<custom-attribute name="Largeur de l&apos;emballage" dt:dt="string" xml:lang="fr-BE">47.8 cm</custom-attribute>
+<custom-attribute name="Lecteur de cartes" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Marque" dt:dt="string" xml:lang="fr-BE">Brother</custom-attribute>
+<custom-attribute name="Modèle" dt:dt="string" xml:lang="fr-BE">DCP-J132W</custom-attribute>
+<custom-attribute name="Mémoire vive" dt:dt="string" xml:lang="fr-BE">64 MB</custom-attribute>
+<custom-attribute name="Nombre de bacs papier" dt:dt="string" xml:lang="fr-BE">1</custom-attribute>
+<custom-attribute name="PictBridge" dt:dt="string" xml:lang="fr-BE">Non</custom-attribute>
+<custom-attribute name="Poids" dt:dt="string" xml:lang="fr-BE">6.9 kg</custom-attribute>
+<custom-attribute name="Poids Livraison" dt:dt="string" xml:lang="fr-BE">8.4 kg</custom-attribute>
+<custom-attribute name="Product colour" dt:dt="string" xml:lang="fr-BE">Noir</custom-attribute>
+<custom-attribute name="Profondeur de couleur" dt:dt="string" xml:lang="fr-BE">24 bits</custom-attribute>
+<custom-attribute name="Profondeur de l&apos;emballage" dt:dt="string" xml:lang="fr-BE">22.9 cm</custom-attribute>
+<custom-attribute name="Profondeur en mm" dt:dt="string" xml:lang="fr-BE">37.4 cm</custom-attribute>
+<custom-attribute name="Recto-Verso" dt:dt="string" xml:lang="fr-BE">Non</custom-attribute>
+<custom-attribute name="Résolution d&apos;impression max (couleur)" dt:dt="string" xml:lang="fr-BE">6 000 x 1 200 ppp</custom-attribute>
+<custom-attribute name="Résolution d&apos;impression maxi (N&amp;B)" dt:dt="string" xml:lang="fr-BE">6 000 x 1 200 ppp</custom-attribute>
+<custom-attribute name="Résolution de numérisation (N&amp;B)" dt:dt="string" xml:lang="fr-BE">1200 x 1200 ppp</custom-attribute>
+<custom-attribute name="Résolution de numérisation (couleur)" dt:dt="string" xml:lang="fr-BE">1200 x 1200 ppp</custom-attribute>
+<custom-attribute name="Résolution du scanner" dt:dt="string" xml:lang="fr-BE">1 200 x 2 400 ppp</custom-attribute>
+<custom-attribute name="Standard Capacity (number of sheets)" dt:dt="string" xml:lang="fr-BE">100 feuilles</custom-attribute>
+<custom-attribute name="Technologie d&apos;impression" dt:dt="string" xml:lang="fr-BE">Jet d&apos;encre</custom-attribute>
+<custom-attribute name="Type (Office Machine)" dt:dt="string" xml:lang="fr-BE">Imprimante / photocopieur / scanner</custom-attribute>
+<custom-attribute name="Type d&apos;impression" dt:dt="string" xml:lang="fr-BE">Couleur</custom-attribute>
+<custom-attribute name="Type de service" dt:dt="string" xml:lang="fr-BE">1-year warranty</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="fr-BE">unité</custom-attribute>
+<custom-attribute name="Vitesse impression (N&amp;B)" dt:dt="string" xml:lang="fr-BE">27 ppm</custom-attribute>
+<custom-attribute name="Volume sonore émis" dt:dt="string" xml:lang="fr-BE">50 dBA</custom-attribute>
+<custom-attribute name="WiFi" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Aantal papierlades" dt:dt="string" xml:lang="nl-BE">1</custom-attribute>
+<custom-attribute name="Afdruksnelheid zwart" dt:dt="string" xml:lang="nl-BE">27 ppm</custom-attribute>
+<custom-attribute name="Blue Angel gecertificeerd" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Breedte" dt:dt="string" xml:lang="nl-BE">41 cm</custom-attribute>
+<custom-attribute name="Capaciteit Papierlade" dt:dt="string" xml:lang="nl-BE">100 vel</custom-attribute>
+<custom-attribute name="Compatible met" dt:dt="string" xml:lang="nl-BE">Windows, Mac , Linux</custom-attribute>
+<custom-attribute name="Diepte" dt:dt="string" xml:lang="nl-BE">37.4 cm</custom-attribute>
+<custom-attribute name="Dubbelzijdig printen" dt:dt="string" xml:lang="nl-BE">Nee</custom-attribute>
+<custom-attribute name="ENERGY STAR Gecertificeerd" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Functies" dt:dt="string" xml:lang="nl-BE">Printen, kopiëren, scannen</custom-attribute>
+<custom-attribute name="Geheugen" dt:dt="string" xml:lang="nl-BE">64 MB</custom-attribute>
+<custom-attribute name="Geluidsproductie" dt:dt="string" xml:lang="nl-BE">50 dBA</custom-attribute>
+<custom-attribute name="Gescheiden kleuren inkt" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Gewicht" dt:dt="string" xml:lang="nl-BE">6.9 kg</custom-attribute>
+<custom-attribute name="Hoogte" dt:dt="string" xml:lang="nl-BE">16.1 cm</custom-attribute>
+<custom-attribute name="Kleurdiepte" dt:dt="string" xml:lang="nl-BE">24-bits</custom-attribute>
+<custom-attribute name="MPN" dt:dt="string" xml:lang="nl-BE">DCP-J132WRF1</custom-attribute>
+<custom-attribute name="Max. Printresolutie (Kleur)" dt:dt="string" xml:lang="nl-BE">6000 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max. Printresolutie (Zwart-Wit)" dt:dt="string" xml:lang="nl-BE">6000 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max. resolutie bij kopiëren (Kleur)" dt:dt="string" xml:lang="nl-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max. resolutie bij kopiëren (Zwart-wit)" dt:dt="string" xml:lang="nl-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Maximale printgrootte" dt:dt="string" xml:lang="nl-BE">A4</custom-attribute>
+<custom-attribute name="Merk" dt:dt="string" xml:lang="nl-BE">Brother</custom-attribute>
+<custom-attribute name="Merk (voor publicatie)" dt:dt="string" xml:lang="nl-BE">Brother</custom-attribute>
+<custom-attribute name="Microsoft Gecertificeerd" dt:dt="string" xml:lang="nl-BE">Compatibel met Windows 7</custom-attribute>
+<custom-attribute name="Model" dt:dt="string" xml:lang="nl-BE">DCP-J132</custom-attribute>
+<custom-attribute name="Network connection available" dt:dt="string" xml:lang="nl-BE">Nee</custom-attribute>
+<custom-attribute name="Ondersteuning geheugenkaart" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Papierformaat" dt:dt="string" xml:lang="nl-BE">t/m A4</custom-attribute>
+<custom-attribute name="PictBridge compatible" dt:dt="string" xml:lang="nl-BE">Nee</custom-attribute>
+<custom-attribute name="Print technologie" dt:dt="string" xml:lang="nl-BE">Inktjet</custom-attribute>
+<custom-attribute name="Printtechnologie" dt:dt="string" xml:lang="nl-BE">Inkjet printing</custom-attribute>
+<custom-attribute name="Product colour" dt:dt="string" xml:lang="nl-BE">Zwart</custom-attribute>
+<custom-attribute name="Productserie" dt:dt="string" xml:lang="nl-BE">Brother</custom-attribute>
+<custom-attribute name="Resolutie scanner" dt:dt="string" xml:lang="nl-BE">1200 x 2400 dpi</custom-attribute>
+<custom-attribute name="Soort artikel" dt:dt="string" xml:lang="nl-BE">All-In-One Inkjet kleurenprinter</custom-attribute>
+<custom-attribute name="Standaard Capaciteit (Aantal Vellen)" dt:dt="string" xml:lang="nl-BE">100 vel</custom-attribute>
+<custom-attribute name="Type (Kantoor Machine)" dt:dt="string" xml:lang="nl-BE">Printer / kopieerapparaat / scanner</custom-attribute>
+<custom-attribute name="Type Diensten" dt:dt="string" xml:lang="nl-BE">1 jaar garantie</custom-attribute>
+<custom-attribute name="Type uitvoer voor afdrukken" dt:dt="string" xml:lang="nl-BE">Kleur</custom-attribute>
+<custom-attribute name="Type verbinding" dt:dt="string" xml:lang="nl-BE">Draadloos</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="nl-BE">stuk</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Breedte)" dt:dt="string" xml:lang="nl-BE">47.8 cm</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Diepte)" dt:dt="string" xml:lang="nl-BE">22.9 cm</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Gewicht)" dt:dt="string" xml:lang="nl-BE">8.4 kg</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Hoogte)" dt:dt="string" xml:lang="nl-BE">45.6 cm</custom-attribute>
+<custom-attribute name="Werkgeheugen" dt:dt="string" xml:lang="nl-BE">64 MB</custom-attribute>
+<custom-attribute name="WiFi" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Wireless LAN" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+</custom-attributes>
+</offer>
+<offer sku="335249">
+<sku>335249</sku>
+<long-description xml:lang="de-BE">Der HP Officejet Pro 8610 e-All-in-One druckt, kopiert, scannt und faxt Farbunterlagen in professioneller Qualität und steigert mit nützlichen und benutzerfreundlichen Funktionen und Extras die Produktivität in Ihrem Büro. Der Drucker ist netzwerkfähig, mit integrierter Wireless- und Ethernet-Technologie ausgestattet und erlaubt dank HP ePrint oder Wireless-Direct das Drucken von mobilen Endgeräten.</long-description>
+<name xml:lang="de-BE">HP Officejet Pro 8610 Inkjet All-in-one Drucker, WLAN, A4 und Legal</name>
+<long-description xml:lang="en-BE">Print using the touchscreen, via your wireless network or direct from mobile devices with HP ePrint&lt;BR&gt;Print, Copy, Scan, Fax and Web&lt;BR&gt;Print from the office or on the go via your smartphone, tablet or notebook&lt;BR&gt;Up to 31 copy and print speeds mono and colour&lt;BR&gt;Up to 500 sheet input tray&lt;BR&gt;Up to 99 copies per time&lt;BR&gt;Flatbed, automatic document feeder scanner&lt;BR&gt;Memory: 128MB&lt;BR&gt;Up to 100 pages Fax memory&lt;BR&gt;One year HP limited warranty&lt;BR&gt;Delivered direct from production site. Please note this product has different delivery procedures and is non returnable&lt;BR&gt;This item will only be delivered to ground floor locations</long-description>
+<name xml:lang="en-BE">HP Hewlett Packard Hewlett Packard OfficeJet Pro 8610 e-All-In-One Printer Black, A7F64A</name>
+<short-description xml:lang="en-BE">Print using the touchscreen, via your wireless network or direct from mobile devices with HP ePrint&lt;BR&gt;Print, Copy, Scan, Fax and Web&lt;BR&gt;Print from the office or on the go via your smartphone, tablet or notebook&lt;BR&gt;Up to 31 copy and print speeds mono and colour&lt;BR&gt;Up to 500 sheet input tray&lt;BR&gt;Up to 99 copies per time&lt;BR&gt;Flatbed, automatic document feeder scanner&lt;BR&gt;Memory: 128MB&lt;BR&gt;Up to 100 pages Fax memory&lt;BR&gt;One year HP limited warranty&lt;BR&gt;Delivered direct from production site. Please note this product has different delivery procedures and is non returnable&lt;BR&gt;This item will only be delivered to ground floor locations</short-description>
+<long-description xml:lang="fr-BE">Gardez votre activité en marche avec HP Officejet Pro 8610, un appareil e-tout-en-un idéal pour imprimer des documents de qualité professionnelle, pour un coût par page réduit de 50&amp;nbsp;% comparé à celui des lasers. &lt;BR&gt;&lt;BR&gt;Le HP Officejet Pro 8610 e-All-in-one imprime, copie, numérise et télécopie des documents en couleur de qualité professionnelle, tout en stimulant la productivité du bureau, grâce à des fonctions intelligentes et des fonctionnalités faciles d&apos;utilisation. Possédant un réseau prêt, doté d&apos;une capacité intégrée Ethernet et sans fil, cette machine effectue des impressions lors de vos déplacements, grâce à des appareils intelligents munis de la fonction HP ePrint ou via Wireless Direct.&lt;BR&gt;&lt;BR&gt;Imprimante e-All-in-one supérieure dotée de fonctions d&apos;impression, de copie et de télécopie&lt;BR&gt;Impression sécurisée via Wireless Direct&amp;nbsp;: facile à partager dans le bureau à l&apos;aide de la connectivité Wi-Fi et Ethernet&lt;BR&gt;Impression efficace et rapide&amp;nbsp;: A4 noir jusqu&apos;à 19&amp;nbsp;ppm et A4 couleur à 14,5&amp;nbsp;ppm  &lt;BR&gt;Meilleure productivité avec un alimentateur de documents automatique d&apos;une capacité de 35&amp;nbsp;pages, pour des impressions sans marge et recto-verso &lt;BR&gt;Imprimez plus à moindre coût grâce aux cartouches d&apos;encre XL à haut rendement HP&lt;BR&gt;Impression flexible&amp;nbsp;: en déplacement, à l&apos;aide des solutions HP ePrint, PIXMA Cloud Link, Google Cloud Print, Apple AirPrint™ et Android OS Enablement Printing&lt;BR&gt;Pianotez sur l&apos;écran tactile de 6,75&amp;nbsp;cm pour une navigation facile et un accès aux applications&lt;BR&gt;Jusqu&apos;à 30&amp;nbsp;000 pages de cycle opératoire par mois&amp;nbsp;: idéal pour des impressions en couleur fiables&lt;BR&gt;Économisez jusqu&apos;à 50&amp;nbsp;% par page, par rapport à l&apos;impression laser, en utilisant les services HP Instant Ink&lt;BR&gt;&lt;BR&gt; Imprimez des documents couleur professionnels pour un coût par page jusqu&apos;à 50 % inférieur à celui des lasers Créez des documents couleur de qualité professionnelle pour un coût par page jusqu&apos;à 50 % inférieur à celui des imprimantes laser.. Imprimez des documents de qualité professionnelle, avec des couleurs nettes et un noir précis et éclatant, et durables grâce aux encres pigmentées HP d&apos;origine. Travaillez rapidement grâce aux vitesses d&apos;impression pouvant atteindre 19 ppm en noir et 14,5 ppm en couleur. Créez des documents recto-verso, des photos sans marge, des dépliants étonnants et d&apos;autres supports marketing. &lt;BR&gt; Imprimez depuis votre bureau ou en déplacement grâce à votre smartphone, votre tablette ou votre ordinateur portable Imprimez sans fil depuis votre périphérique mobile - sans nécessité d&apos;un routeur ou d&apos;un accès au réseau local.. Lorsque vous voyager bénéficiez d&apos;une impression facile à partir de votre smartphone, de votre tablette et de votre ordinateur portable, grâce à HP ePrint.. Imprimez des documents, des courriers électroniques, des photos et bien plus encore quand vous le souhaitez. Partagez des outils d&apos;impression haute productivité au bureau grâce à la connectivité Ethernet 10/100. &lt;BR&gt; Soyez encore plus productif grâce à une série d&apos;outils professionnels améliorant la productivité Utilisez l&apos;écran tactile pour accéder rapidement à des applis et gérer les tâches d&apos;impression, de copie, de numérisation et de télécopie.. Décuplez votre productivité grâce à l&apos;impression recto-verso rapide et au chargeur automatique de documents de 35 feuilles. Numérisation vers les e-mails, des dossiers réseau et le cloud - La recherche dans le répertoire LDAP localise la destination de votre courrier électronique.. Gérez d&apos;importants volumes d&apos;impression en toute confiance grâce aux taux d&apos;utilisation mensuels allant jusqu&apos;à 30 000 pages.</long-description>
+<name xml:lang="fr-BE">HP Officejet Pro 8610 e-All-in-one Encre Couleur Imprimante</name>
+<short-description xml:lang="fr-BE">Gardez votre activité en marche avec HP Officejet Pro 8610, un appareil e-tout-en-un idéal pour imprimer des documents de qualité professionnelle, pour un coût par page réduit de 50&amp;nbsp;% comparé à celui des lasers. &lt;BR&gt;&lt;BR&gt;Le HP Officejet Pro 8610 e-All-in-one imprime, copie, numérise et télécopie des documents en couleur de qualité professionnelle, tout en stimulant la productivité du bureau, grâce à des fonctions intelligentes et des fonctionnalités faciles d&apos;utilisation. Possédant un réseau prêt, doté d&apos;une capacité intégrée Ethernet et sans fil, cette machine effectue des impressions lors de vos déplacements, grâce à des appareils intelligents munis de la fonction HP ePrint ou via Wireless Direct.&lt;BR&gt;&lt;BR&gt;Imprimante e-All-in-one supérieure dotée de fonctions d&apos;impression, de copie et de télécopie&lt;BR&gt;Impression sécurisée via Wireless Direct&amp;nbsp;: facile à partager dans le bureau à l&apos;aide de la connectivité Wi-Fi et Ethernet&lt;BR&gt;Impression efficace et rapide&amp;nbsp;: A4 noir jusqu&apos;à 19&amp;nbsp;ppm et A4 couleur à 14,5&amp;nbsp;ppm  &lt;BR&gt;Meilleure productivité avec un alimentateur de documents automatique d&apos;une capacité de 35&amp;nbsp;pages, pour des impressions sans marge et recto-verso &lt;BR&gt;Imprimez plus à moindre coût grâce aux cartouches d&apos;encre XL à haut rendement HP&lt;BR&gt;Impression flexible&amp;nbsp;: en déplacement, à l&apos;aide des solutions HP ePrint, PIXMA Cloud Link, Google Cloud Print, Apple AirPrint™ et Android OS Enablement Printing&lt;BR&gt;Pianotez sur l&apos;écran tactile de 6,75&amp;nbsp;cm pour une navigation facile et un accès aux applications&lt;BR&gt;Jusqu&apos;à 30&amp;nbsp;000 pages de cycle opératoire par mois&amp;nbsp;: idéal pour des impressions en couleur fiables&lt;BR&gt;Économisez jusqu&apos;à 50&amp;nbsp;% par page, par rapport à l&apos;impression laser, en utilisant les services HP Instant Ink&lt;BR&gt;&lt;BR&gt; Imprimez des documents couleur professionnels pour un coût par page jusqu&apos;à 50 % inférieur à celui des lasers Créez des documents couleur de qualité professionnelle pour un coût par page jusqu&apos;à 50 % inférieur à celui des imprimantes laser.. Imprimez des documents de qualité professionnelle, avec des couleurs nettes et un noir précis et éclatant, et durables grâce aux encres pigmentées HP d&apos;origine. Travaillez rapidement grâce aux vitesses d&apos;impression pouvant atteindre 19 ppm en noir et 14,5 ppm en couleur. Créez des documents recto-verso, des photos sans marge, des dépliants étonnants et d&apos;autres supports marketing. &lt;BR&gt; Imprimez depuis votre bureau ou en déplacement grâce à votre smartphone, votre tablette ou votre ordinateur portable Imprimez sans fil depuis votre périphérique mobile - sans nécessité d&apos;un routeur ou d&apos;un accès au réseau local.. Lorsque vous voyager bénéficiez d&apos;une impression facile à partir de votre smartphone, de votre tablette et de votre ordinateur portable, grâce à HP ePrint.. Imprimez des documents, des courriers électroniques, des photos et bien plus encore quand vous le souhaitez. Partagez des outils d&apos;impression haute productivité au bureau grâce à la connectivité Ethernet 10/100. &lt;BR&gt; Soyez encore plus productif grâce à une série d&apos;outils professionnels améliorant la productivité Utilisez l&apos;écran tactile pour accéder rapidement à des applis et gérer les tâches d&apos;impression, de copie, de numérisation et de télécopie.. Décuplez votre productivité grâce à l&apos;impression recto-verso rapide et au chargeur automatique de documents de 35 feuilles. Numérisation vers les e-mails, des dossiers réseau et le cloud - La recherche dans le répertoire LDAP localise la destination de votre courrier électronique.. Gérez d&apos;importants volumes d&apos;impression en toute confiance grâce aux taux d&apos;utilisation mensuels allant jusqu&apos;à 30 000 pages.</short-description>
+<long-description xml:lang="nl-BE">Deze uiterst productieve e-All-in-One produceert professionele kleurenprints met tot 50% lagere kosten per pagina dan laserprinters. U kunt printen vanaf het touchscreen,via uw draadloze netwerk of rechtstreeks van mobiele apparaten met HP ePrint&lt;BR&gt; De HP Officejet Pro 8610 e-All-in-One is ontworpen voor kleinzakelijke gebruikers die een productieve e-All-in-One met verschillende verbindingsopties zoeken om kleurendocumenten van professionele kwaliteit te produceren voor uitzonderlijk lage kosten per pagina&lt;BR&gt;Type apparaat Fax / kopieerapparaat / printer / scanner&lt;BR&gt;Maandelijkse produktiecyclus (max) 30000 pagina&apos;s&lt;BR&gt;Aanbevolen Maandelijks Volume 250 - 1500 pagina&apos;s&lt;BR&gt;Maximale kopieersnelheid Tot 13 ppm (mono) / maximaal 11 ppm (kleur)&lt;BR&gt;Maximale kopieerresolutie Tot 1200 x 600 dpi (mono) / maximaal 1200 x 600 dpi (kleur)&lt;BR&gt;Maximale Printsnelheid Tot 19 ppm (mono) / maximaal 14.5 ppm (kleur)&lt;BR&gt;Maximale afdrukresolutie Tot 1200 x 1200 dpi (mono) / maximaal 4800 x 1200 dpi (kleur)&lt;BR&gt;Faxresoluties 203 x 98 dpi,203 x 196 dpi,200 x 200 dpi&lt;BR&gt;Scannen 1200 x 1200 dpi&lt;BR&gt;Capaciteit van documentinvoer 35 vellen&lt;BR&gt;Automatic Duplexing(printend)&lt;BR&gt;AirPrint ingeschakeld&lt;BR&gt;Afmetingen (BxDxH) 49.93 cm x 46.89 cm x 30.05 cm&lt;BR&gt;Gewicht 11.9 kg&lt;BR&gt;Garantie van de fabrikant 1 jaar garantie</long-description>
+<name xml:lang="nl-BE">HP Multifunctional Officejet Pro 8610 e Inkjet</name>
+<short-description xml:lang="nl-BE">Deze uiterst productieve e-All-in-One produceert professionele kleurenprints met tot 50% lagere kosten per pagina dan laserprinters. U kunt printen vanaf het touchscreen,via uw draadloze netwerk of rechtstreeks van mobiele apparaten met HP ePrint&lt;BR&gt; De HP Officejet Pro 8610 e-All-in-One is ontworpen voor kleinzakelijke gebruikers die een productieve e-All-in-One met verschillende verbindingsopties zoeken om kleurendocumenten van professionele kwaliteit te produceren voor uitzonderlijk lage kosten per pagina&lt;BR&gt;Type apparaat Fax / kopieerapparaat / printer / scanner&lt;BR&gt;Maandelijkse produktiecyclus (max) 30000 pagina&apos;s&lt;BR&gt;Aanbevolen Maandelijks Volume 250 - 1500 pagina&apos;s&lt;BR&gt;Maximale kopieersnelheid Tot 13 ppm (mono) / maximaal 11 ppm (kleur)&lt;BR&gt;Maximale kopieerresolutie Tot 1200 x 600 dpi (mono) / maximaal 1200 x 600 dpi (kleur)&lt;BR&gt;Maximale Printsnelheid Tot 19 ppm (mono) / maximaal 14.5 ppm (kleur)&lt;BR&gt;Maximale afdrukresolutie Tot 1200 x 1200 dpi (mono) / maximaal 4800 x 1200 dpi (kleur)&lt;BR&gt;Faxresoluties 203 x 98 dpi,203 x 196 dpi,200 x 200 dpi&lt;BR&gt;Scannen 1200 x 1200 dpi&lt;BR&gt;Capaciteit van documentinvoer 35 vellen&lt;BR&gt;Automatic Duplexing(printend)&lt;BR&gt;AirPrint ingeschakeld&lt;BR&gt;Afmetingen (BxDxH) 49.93 cm x 46.89 cm x 30.05 cm&lt;BR&gt;Gewicht 11.9 kg&lt;BR&gt;Garantie van de fabrikant 1 jaar garantie</short-description>
+<category-links>
+<category-link name="class-448441" domain="Staples-C_BELUX-staples-advantage" default = "0" hotdeal = "0"/>
+<category-link name="class-448439" domain="Staples-C_BELUX-staples-advantage" default = "1" hotdeal = "0"/>
+<category-link name="class-448440" domain="Staples-C_BELUX-staples-advantage" default = "0" hotdeal = "0"/>
+</category-links>
+<images>
+<image-ref image-view="front" image-type="L" image-base-name="IntershopLarge/62/97/asset.356297.jpg" />
+</images>
+<product-list-prices>
+<product-list-price currency="EUR" net-price="1">135.000000</product-list-price>
+</product-list-prices>
+<product-links>
+<product-link sku = "335155" domain = "Staples-C_BELUX">
+<product-link-type name="ES_CrossSelling"></product-link-type>
+<quantity>0</quantity>
+<position>1.0</position>
+</product-link>
+<product-link sku = "328809" domain = "Staples-C_BELUX">
+<product-link-type name="ES_CrossSelling"></product-link-type>
+<quantity>0</quantity>
+<position>2.0</position>
+</product-link>
+<product-link sku = "335602" domain = "Staples-C_BELUX">
+<product-link-type name="ES_CrossSelling"></product-link-type>
+<quantity>0</quantity>
+<position>3.0</position>
+</product-link>
+</product-links>
+<offered-product sku="335249" domain="Staples-C_BELUX"/>
+<tax-class id = "NoTax"/>
+<product-type name = "Basic" domain = "system"/>
+<online>1</online>
+<available>1</available>
+<availability-status>1</availability-status>
+<supplier>
+<supplier-name>HP</supplier-name>
+<supplier-sku>A7F64A#A80</supplier-sku>
+</supplier>
+<manufacturer>
+<manufacturer-name>HP</manufacturer-name>
+<manufacturer-sku>A7F64A#A80</manufacturer-sku>
+</manufacturer>
+<custom-attributes>
+<custom-attribute name="GTIN" dt:dt="string">888182021392</custom-attribute>
+<custom-attribute name="SPGS" dt:dt="string">2-43-463</custom-attribute>
+<custom-attribute name="brand-logo" dt:dt="string">IntershopBrandLogo/21/23/asset.372123.jpg</custom-attribute>
+<custom-attribute name="exclude-from-search-index" dt:dt="boolean">false</custom-attribute>
+<custom-attribute name="product-status" dt:dt="string">phased-out</custom-attribute>
+<custom-attribute name="Akzeptiert USBs" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Anzahl Papierfächer" dt:dt="string" xml:lang="de-BE">1</custom-attribute>
+<custom-attribute name="Anzahl der Tintenpatronen" dt:dt="string" xml:lang="de-BE">4</custom-attribute>
+<custom-attribute name="Art der Scan-Elemente" dt:dt="string" xml:lang="de-BE">CIS</custom-attribute>
+<custom-attribute name="Automatischer Dokumenteneinzug" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Automatischer Duplexdruck" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="B x T x H" dt:dt="string" xml:lang="de-BE">499,3 x 468,9 x 300,5 mm</custom-attribute>
+<custom-attribute name="Bausatz" dt:dt="string" xml:lang="de-BE">EMEA (ausgenommen Israel, Saudi-Arabien, Südafrika)</custom-attribute>
+<custom-attribute name="Breite" dt:dt="string" xml:lang="de-BE">499.3 mm</custom-attribute>
+<custom-attribute name="Druck über App" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Druckausgabetyp" dt:dt="string" xml:lang="de-BE">Farbe</custom-attribute>
+<custom-attribute name="Drucktechnologie" dt:dt="string" xml:lang="de-BE">Tintenstrahl</custom-attribute>
+<custom-attribute name="ENERGY STAR-zertifiziert" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="EPEAT Ebene" dt:dt="string" xml:lang="de-BE">EPEAT Bronze</custom-attribute>
+<custom-attribute name="EPEAT-kompatibel" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Eigenschaften" dt:dt="string" xml:lang="de-BE">Scan to E-Mail, HP ePrint, Wireless Direct Printing</custom-attribute>
+<custom-attribute name="Eingebautes Wi-Fi" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="Farbe" dt:dt="string" xml:lang="de-BE">Schwarz</custom-attribute>
+<custom-attribute name="Farbtiefe" dt:dt="string" xml:lang="de-BE">24-Bit</custom-attribute>
+<custom-attribute name="Fassungsvermögen" dt:dt="string" xml:lang="de-BE">500 Blatt</custom-attribute>
+<custom-attribute name="Faxtyp" dt:dt="string" xml:lang="de-BE">Normalpapier</custom-attribute>
+<custom-attribute name="Funktion" dt:dt="string" xml:lang="de-BE">Drucken, Faxen, Kopieren, Scannen</custom-attribute>
+<custom-attribute name="Für" dt:dt="string" xml:lang="de-BE">maximal A4</custom-attribute>
+<custom-attribute name="Garantie" dt:dt="string" xml:lang="de-BE">1 Jahr</custom-attribute>
+<custom-attribute name="Gewicht" dt:dt="string" xml:lang="de-BE">11.9 kg</custom-attribute>
+<custom-attribute name="Höhe" dt:dt="string" xml:lang="de-BE">300.5 mm</custom-attribute>
+<custom-attribute name="Installierte Arbeitsspeicher" dt:dt="string" xml:lang="de-BE">128 MB</custom-attribute>
+<custom-attribute name="Kabel" dt:dt="string" xml:lang="de-BE">USB 2.0</custom-attribute>
+<custom-attribute name="Kompatible Patronen" dt:dt="string" xml:lang="de-BE">Schwarz: HP 950, Cyan: HP 951, Magenta: HP 951, Gelb: HP 951</custom-attribute>
+<custom-attribute name="MPN" dt:dt="string" xml:lang="de-BE">A7F64A#A80</custom-attribute>
+<custom-attribute name="Marke" dt:dt="string" xml:lang="de-BE">HP</custom-attribute>
+<custom-attribute name="Max. Druckauflösung Farbe" dt:dt="string" xml:lang="de-BE">4800 x 1200 dpi</custom-attribute>
+<custom-attribute name="Maximale Auflösung S /W" dt:dt="string" xml:lang="de-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Maximale Druckgeschwindigkeit S / W (ppm)" dt:dt="string" xml:lang="de-BE">31 ppm</custom-attribute>
+<custom-attribute name="Maximale Druckgeschwindigkeit in Farbe (ppm)" dt:dt="string" xml:lang="de-BE">31 ppm</custom-attribute>
+<custom-attribute name="Modell" dt:dt="string" xml:lang="de-BE">8610</custom-attribute>
+<custom-attribute name="Modellname" dt:dt="string" xml:lang="de-BE">Officejet Pro</custom-attribute>
+<custom-attribute name="Monatliche Kapazität (max.) (Büromaschinen" dt:dt="string" xml:lang="de-BE">30000 Seiten</custom-attribute>
+<custom-attribute name="Papier-/Kartonart" dt:dt="string" xml:lang="de-BE">für Normalpapier</custom-attribute>
+<custom-attribute name="Papierfachkapazität" dt:dt="string" xml:lang="de-BE">250 Blätter</custom-attribute>
+<custom-attribute name="Power Consumption - Operational" dt:dt="string" xml:lang="de-BE">29 W</custom-attribute>
+<custom-attribute name="Produktfarbe" dt:dt="string" xml:lang="de-BE">Schwarz</custom-attribute>
+<custom-attribute name="Produktlinie" dt:dt="string" xml:lang="de-BE">HP Officejet Pro</custom-attribute>
+<custom-attribute name="Produkttyp" dt:dt="string" xml:lang="de-BE">Inkjet All-in-one Drucker</custom-attribute>
+<custom-attribute name="Schallemission" dt:dt="string" xml:lang="de-BE">64 dBA</custom-attribute>
+<custom-attribute name="Service-Typ" dt:dt="string" xml:lang="de-BE">3 Jahre Garantie mit Produktregistrierung</custom-attribute>
+<custom-attribute name="Speichergröße" dt:dt="string" xml:lang="de-BE">128 MB</custom-attribute>
+<custom-attribute name="Standardkapazität (Anzahl der Blätter)" dt:dt="string" xml:lang="de-BE">250 Blätter</custom-attribute>
+<custom-attribute name="Systemvoraussetzung" dt:dt="string" xml:lang="de-BE">
+<value>Novell NetWare 6</value>
+<value>Linux</value>
+<value>MS Windows 7</value>
+<value>MS Windows XP SP3</value>
+<value>MS Windows 7 64-bit Edition</value>
+<value>MS Windows Vista</value>
+<value>MS Windows Vista (64-bit versions)</value>
+<value>Novell NetWare 6.5</value>
+<value>Apple Mac OS X 10.6</value>
+<value>Apple Mac OS X 10.7</value>
+<value>MS Windows Server 2008 R2 x64 Edition</value>
+<value>Apple Mac OS X 10.8</value>
+<value>Windows 8</value>
+<value>MS Windows Server 2003 SP1</value>
+<value>MS Windows Server 2003 SP2</value>
+<value>Novell Open Enterprise Server</value>
+<value>Windows 8 64-bit</value>
+<value>MS Windows Server 2003 x64 Edition SP2 or later</value>
+<value>MS Windows Server 2003 x64 Edition SP1 or later</value>
+<value>Windows 8.1</value>
+<value>Apple Mac OS X 10.9</value>
+<value>Windows 8.1 64-bit</value>
+<value>MS Windows Server 2003 R2 (32/64-bits)</value>
+<value>MS Windows Server 2008 SP1 (32/64-bits)</value>
+<value>MS Windows Server 2008 SP2 (32/64-bits)</value>
+</custom-attribute>
+<custom-attribute name="Tiefe" dt:dt="string" xml:lang="de-BE">468.9 mm</custom-attribute>
+<custom-attribute name="Transportbreite" dt:dt="string" xml:lang="de-BE">56.9 cm</custom-attribute>
+<custom-attribute name="Transporthöhe" dt:dt="string" xml:lang="de-BE">49.2 cm</custom-attribute>
+<custom-attribute name="Transporttiefe" dt:dt="string" xml:lang="de-BE">37.7 cm</custom-attribute>
+<custom-attribute name="Typ (Büromaschinen)" dt:dt="string" xml:lang="de-BE">Faxgerät / Kopierer / Drucker / Scanner</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="de-BE">Stück</custom-attribute>
+<custom-attribute name="Unterstützt Speicherkarten" dt:dt="string" xml:lang="de-BE">Nein</custom-attribute>
+<custom-attribute name="Versandgewicht" dt:dt="string" xml:lang="de-BE">15.16 kg</custom-attribute>
+<custom-attribute name="Vorlageneinzug Kapazität" dt:dt="string" xml:lang="de-BE">35 Blätter</custom-attribute>
+<custom-attribute name="WLAN" dt:dt="string" xml:lang="de-BE">Wi-Fi(n</custom-attribute>
+<custom-attribute name="Wireless LAN unterstützt" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="faxen per PC" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="max. Kopierauflösung (Farbe)" dt:dt="string" xml:lang="de-BE">1200 x 600 dpi</custom-attribute>
+<custom-attribute name="max. Kopierauflösung (S/W)" dt:dt="string" xml:lang="de-BE">1200 x 600 dpi</custom-attribute>
+<custom-attribute name="max. Kopiergeschwindigkeit (Farbe)" dt:dt="string" xml:lang="de-BE">31 ppm</custom-attribute>
+<custom-attribute name="max. Kopiergeschwindigkeit (S/W)" dt:dt="string" xml:lang="de-BE">31 ppm</custom-attribute>
+<custom-attribute name="max. Mediengröße" dt:dt="string" xml:lang="de-BE">A4, Legal</custom-attribute>
+<custom-attribute name="netzwerkfähig" dt:dt="string" xml:lang="de-BE">Ja</custom-attribute>
+<custom-attribute name="optische Auflösung" dt:dt="string" xml:lang="de-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="unterstützt PictBridge" dt:dt="string" xml:lang="de-BE">Nein</custom-attribute>
+<custom-attribute name="Accepts USBs" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="App Service Enabled" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Automatic Document Feeder" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Automatic Duplexing" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Brand" dt:dt="string" xml:lang="en-BE">HP</custom-attribute>
+<custom-attribute name="Built-in Wi-Fi" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Cable Connector Type" dt:dt="string" xml:lang="en-BE">USB 2.0</custom-attribute>
+<custom-attribute name="Cable/Power" dt:dt="string" xml:lang="en-BE">Plug</custom-attribute>
+<custom-attribute name="Colour" dt:dt="string" xml:lang="en-BE">Black</custom-attribute>
+<custom-attribute name="Colour Depth" dt:dt="string" xml:lang="en-BE">24-bit</custom-attribute>
+<custom-attribute name="Compatible Cartridges" dt:dt="string" xml:lang="en-BE">
+<value>Black:HP 95</value>
+<value>Cyan:HP 951)</value>
+<value>Magenta:HP 951</value>
+<value>Yellow:HP 951</value>
+</custom-attribute>
+<custom-attribute name="Country Kits" dt:dt="string" xml:lang="en-BE">EMEA (excluding Israel, Saudi Arabia, South Africa)</custom-attribute>
+<custom-attribute name="Depth" dt:dt="string" xml:lang="en-BE">468.9 mm</custom-attribute>
+<custom-attribute name="Display Type" dt:dt="string" xml:lang="en-BE">6.75 cm touchscreen</custom-attribute>
+<custom-attribute name="EPEAT Compliant" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="EPEAT Level" dt:dt="string" xml:lang="en-BE">EPEAT Bronze</custom-attribute>
+<custom-attribute name="Energy Star Qualified" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Fax Type" dt:dt="string" xml:lang="en-BE">Plain paper</custom-attribute>
+<custom-attribute name="Features" dt:dt="string" xml:lang="en-BE">
+<value>Scan to e-mail</value>
+<value>HP ePrint</value>
+<value>Wireless Direct Printing</value>
+</custom-attribute>
+<custom-attribute name="Feeder Capacity" dt:dt="string" xml:lang="en-BE">35 sheets</custom-attribute>
+<custom-attribute name="Functions" dt:dt="string" xml:lang="en-BE">
+<value>Copier</value>
+<value>Fax</value>
+<value>Printer</value>
+<value>Scanner</value>
+</custom-attribute>
+<custom-attribute name="Height" dt:dt="string" xml:lang="en-BE">300.5 mm</custom-attribute>
+<custom-attribute name="Installed RAM Size" dt:dt="string" xml:lang="en-BE">128 MB</custom-attribute>
+<custom-attribute name="MPN" dt:dt="string" xml:lang="en-BE">A7F64A#A80</custom-attribute>
+<custom-attribute name="Max Copying Resolution Black and White" dt:dt="string" xml:lang="en-BE">1200 x 600 dpi</custom-attribute>
+<custom-attribute name="Max Copying Resolution Colour" dt:dt="string" xml:lang="en-BE">1200 x 600 dpi</custom-attribute>
+<custom-attribute name="Max Copying Speed Black and White" dt:dt="string" xml:lang="en-BE">31 ppm</custom-attribute>
+<custom-attribute name="Max Copying Speed Colour" dt:dt="string" xml:lang="en-BE">31 ppm</custom-attribute>
+<custom-attribute name="Max Printing Resolution Black and White" dt:dt="string" xml:lang="en-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max Printing Resolution Colour" dt:dt="string" xml:lang="en-BE">4800 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max Printing Speed Black and White" dt:dt="string" xml:lang="en-BE">31 ppm</custom-attribute>
+<custom-attribute name="Max Printing Speed Colour" dt:dt="string" xml:lang="en-BE">31 ppm</custom-attribute>
+<custom-attribute name="Maximum Print Size" dt:dt="string" xml:lang="en-BE">A4;Legal</custom-attribute>
+<custom-attribute name="Memory Size" dt:dt="string" xml:lang="en-BE">128 MB</custom-attribute>
+<custom-attribute name="Model" dt:dt="string" xml:lang="en-BE">Officejet Pro</custom-attribute>
+<custom-attribute name="Model Name" dt:dt="string" xml:lang="en-BE">8610</custom-attribute>
+<custom-attribute name="Monthly Duty Cycle" dt:dt="string" xml:lang="en-BE">30000 pages</custom-attribute>
+<custom-attribute name="Network connection available" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Number Of Paper Trays" dt:dt="string" xml:lang="en-BE">1</custom-attribute>
+<custom-attribute name="PC Faxing" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Paper Tray Capacity" dt:dt="string" xml:lang="en-BE">250 sheets</custom-attribute>
+<custom-attribute name="PictBridge compatible" dt:dt="string" xml:lang="en-BE">No</custom-attribute>
+<custom-attribute name="Power Consumption - Operational" dt:dt="string" xml:lang="en-BE">29 W</custom-attribute>
+<custom-attribute name="Print Speed" dt:dt="string" xml:lang="en-BE">19ppm black, 14.5ppm colou</custom-attribute>
+<custom-attribute name="Printing Output Type" dt:dt="string" xml:lang="en-BE">Colour</custom-attribute>
+<custom-attribute name="Printing Technology" dt:dt="string" xml:lang="en-BE">Ink-jet</custom-attribute>
+<custom-attribute name="Product Line" dt:dt="string" xml:lang="en-BE">HP Officejet Pro</custom-attribute>
+<custom-attribute name="Product Type" dt:dt="string" xml:lang="en-BE">Inkjet All-in-One Printer</custom-attribute>
+<custom-attribute name="Product colour" dt:dt="string" xml:lang="en-BE">Black</custom-attribute>
+<custom-attribute name="Required Number of Cartridges" dt:dt="string" xml:lang="en-BE">4</custom-attribute>
+<custom-attribute name="Required Operating System" dt:dt="string" xml:lang="en-BE">
+<value>Novell NetWare 6</value>
+<value>Linux</value>
+<value>MS Windows 7</value>
+<value>MS Windows XP SP3</value>
+<value>MS Windows 7 64-bit Edition</value>
+<value>MS Windows Vista</value>
+<value>MS Windows Vista (64-bit versions)</value>
+<value>Novell NetWare 6.5</value>
+<value>Apple Mac OS X 10.6</value>
+<value>Apple Mac OS X 10.7</value>
+<value>MS Windows Server 2008 R2 x64 Edition</value>
+<value>Apple Mac OS X 10.8</value>
+<value>Windows 8</value>
+<value>MS Windows Server 2003 SP1</value>
+<value>MS Windows Server 2003 SP2</value>
+<value>Novell Open Enterprise Server</value>
+<value>Windows 8 64-bit</value>
+<value>MS Windows Server 2003 x64 Edition SP2 or later</value>
+<value>MS Windows Server 2003 x64 Edition SP1 or later</value>
+<value>Windows 8.1</value>
+<value>Apple Mac OS X 10.9</value>
+<value>Windows 8.1 64-bit</value>
+<value>MS Windows Server 2003 R2 (32/64-bits)</value>
+<value>MS Windows Server 2008 SP1 (32/64-bits)</value>
+<value>MS Windows Server 2008 SP2 (32/64-bits)</value>
+</custom-attribute>
+<custom-attribute name="Scan Element Type" dt:dt="string" xml:lang="en-BE">CIS</custom-attribute>
+<custom-attribute name="Scanner Resolution" dt:dt="string" xml:lang="en-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Service Type" dt:dt="string" xml:lang="en-BE">3-year warranty with product registration</custom-attribute>
+<custom-attribute name="Shipping Depth" dt:dt="string" xml:lang="en-BE">37.7 cm</custom-attribute>
+<custom-attribute name="Shipping Height" dt:dt="string" xml:lang="en-BE">49.2 cm</custom-attribute>
+<custom-attribute name="Shipping Weight" dt:dt="string" xml:lang="en-BE">15.16 kg</custom-attribute>
+<custom-attribute name="Shipping Width" dt:dt="string" xml:lang="en-BE">56.9 cm</custom-attribute>
+<custom-attribute name="Size" dt:dt="string" xml:lang="en-BE">49.9 x 46.8 x 30.0cm</custom-attribute>
+<custom-attribute name="Sound Emission" dt:dt="string" xml:lang="en-BE">64 dBA</custom-attribute>
+<custom-attribute name="Standard Capacity (number of sheets)" dt:dt="string" xml:lang="en-BE">250 sheets</custom-attribute>
+<custom-attribute name="Supports Memory Cards" dt:dt="string" xml:lang="en-BE">No</custom-attribute>
+<custom-attribute name="Type" dt:dt="string" xml:lang="en-BE">Inkjet 4-in-1 printer</custom-attribute>
+<custom-attribute name="Type (Office Machine" dt:dt="string" xml:lang="en-BE">Fax / copier / printer / scanner</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="en-BE">each</custom-attribute>
+<custom-attribute name="Warranty" dt:dt="string" xml:lang="en-BE">1 year</custom-attribute>
+<custom-attribute name="Weight" dt:dt="string" xml:lang="en-BE">11.9 kg</custom-attribute>
+<custom-attribute name="Width" dt:dt="string" xml:lang="en-BE">499.3 mm</custom-attribute>
+<custom-attribute name="Wireless Connectivity" dt:dt="string" xml:lang="en-BE">Wi-Fi(n</custom-attribute>
+<custom-attribute name="Wireless LAN Supported" dt:dt="string" xml:lang="en-BE">Yes</custom-attribute>
+<custom-attribute name="Alimentation automatique de documents" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Bac papier (nb feuilles" dt:dt="string" xml:lang="fr-BE">250 feuilles</custom-attribute>
+<custom-attribute name="Capacité mensuelle maximale" dt:dt="string" xml:lang="fr-BE">30000 pages</custom-attribute>
+<custom-attribute name="Capacité mémoire" dt:dt="string" xml:lang="fr-BE">128 MB</custom-attribute>
+<custom-attribute name="Certification Energy Star" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Chargeur de documents (nb feuilles)" dt:dt="string" xml:lang="fr-BE">35 feuilles</custom-attribute>
+<custom-attribute name="Compatibilité" dt:dt="string" xml:lang="fr-BE">Windows XP-Vista-7 / Mac OS 10.5.8 et supérieur</custom-attribute>
+<custom-attribute name="Compatible applications mobiles" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Connexion Réseau" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Connexion USB" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Connexion Wi-Fi" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Consommation" dt:dt="string" xml:lang="fr-BE">29 W</custom-attribute>
+<custom-attribute name="Couleur" dt:dt="string" xml:lang="fr-BE">Noir</custom-attribute>
+<custom-attribute name="EPEAT Compliant" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="EPEAT Level" dt:dt="string" xml:lang="fr-BE">EPEAT Bronze</custom-attribute>
+<custom-attribute name="Fax Type" dt:dt="string" xml:lang="fr-BE">Papier uni</custom-attribute>
+<custom-attribute name="Fonctions" dt:dt="string" xml:lang="fr-BE">4 en 1</custom-attribute>
+<custom-attribute name="Gamme" dt:dt="string" xml:lang="fr-BE">HP Officejet Pro</custom-attribute>
+<custom-attribute name="Garantie" dt:dt="string" xml:lang="fr-BE">Garantie de 1 an</custom-attribute>
+<custom-attribute name="Hauteur" dt:dt="string" xml:lang="fr-BE">300.5 mm</custom-attribute>
+<custom-attribute name="Hauteur de l&apos;emballage" dt:dt="string" xml:lang="fr-BE">49.2 cm</custom-attribute>
+<custom-attribute name="Kit de pays" dt:dt="string" xml:lang="fr-BE">EMOA (sauf Israël, Arabie Saoudite, Afrique du Sud)</custom-attribute>
+<custom-attribute name="Largeur" dt:dt="string" xml:lang="fr-BE">499.3 mm</custom-attribute>
+<custom-attribute name="Largeur de l&apos;emballage" dt:dt="string" xml:lang="fr-BE">56.9 cm</custom-attribute>
+<custom-attribute name="Lecteur de cartes" dt:dt="string" xml:lang="fr-BE">Non</custom-attribute>
+<custom-attribute name="Marque" dt:dt="string" xml:lang="fr-BE">HP</custom-attribute>
+<custom-attribute name="Modèle" dt:dt="string" xml:lang="fr-BE">8610 e-All-in-One</custom-attribute>
+<custom-attribute name="Mémoire vive" dt:dt="string" xml:lang="fr-BE">128 MB</custom-attribute>
+<custom-attribute name="Nom du modèle" dt:dt="string" xml:lang="fr-BE">Officejet Pro</custom-attribute>
+<custom-attribute name="Nombre de bacs papier" dt:dt="string" xml:lang="fr-BE">1</custom-attribute>
+<custom-attribute name="Nombre de cartouches" dt:dt="string" xml:lang="fr-BE">4</custom-attribute>
+<custom-attribute name="PC Faxing" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="PictBridge" dt:dt="string" xml:lang="fr-BE">Non</custom-attribute>
+<custom-attribute name="Poids" dt:dt="string" xml:lang="fr-BE">11.9 kg</custom-attribute>
+<custom-attribute name="Poids Livraison" dt:dt="string" xml:lang="fr-BE">15.16 kg</custom-attribute>
+<custom-attribute name="Product colour" dt:dt="string" xml:lang="fr-BE">Noir</custom-attribute>
+<custom-attribute name="Profondeur de couleur" dt:dt="string" xml:lang="fr-BE">24 bits</custom-attribute>
+<custom-attribute name="Profondeur de l&apos;emballage" dt:dt="string" xml:lang="fr-BE">37.7 cm</custom-attribute>
+<custom-attribute name="Profondeur en mm" dt:dt="string" xml:lang="fr-BE">468.9 mm</custom-attribute>
+<custom-attribute name="Recto-Verso" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Réf Fabricant" dt:dt="string" xml:lang="fr-BE">A7F64A#A80</custom-attribute>
+<custom-attribute name="Résolution d&apos;impression max (couleur)" dt:dt="string" xml:lang="fr-BE">4800 x 1200 dpi</custom-attribute>
+<custom-attribute name="Résolution d&apos;impression maxi (N&amp;B)" dt:dt="string" xml:lang="fr-BE">1200 x 1200 ppp</custom-attribute>
+<custom-attribute name="Résolution de numérisation (N&amp;B)" dt:dt="string" xml:lang="fr-BE">1200 x 600 ppp</custom-attribute>
+<custom-attribute name="Résolution de numérisation (couleur)" dt:dt="string" xml:lang="fr-BE">1200 x 600 ppp</custom-attribute>
+<custom-attribute name="Résolution du scanner" dt:dt="string" xml:lang="fr-BE">4800 x 4800 dpi</custom-attribute>
+<custom-attribute name="Standard Capacity (number of sheets)" dt:dt="string" xml:lang="fr-BE">250 feuilles</custom-attribute>
+<custom-attribute name="Taille d&apos;impression maxi" dt:dt="string" xml:lang="fr-BE">A4</custom-attribute>
+<custom-attribute name="Technologie d&apos;impression" dt:dt="string" xml:lang="fr-BE">Jet d&apos;encre</custom-attribute>
+<custom-attribute name="Type (Office Machine)" dt:dt="string" xml:lang="fr-BE">Fax / photocopieur / imprimante / scanner</custom-attribute>
+<custom-attribute name="Type d&apos;impression" dt:dt="string" xml:lang="fr-BE">Couleur</custom-attribute>
+<custom-attribute name="Type de capteur" dt:dt="string" xml:lang="fr-BE">CIS</custom-attribute>
+<custom-attribute name="Type de produit" dt:dt="string" xml:lang="fr-BE">Imprimante multifonction jet d&apos;encre couleur</custom-attribute>
+<custom-attribute name="Type de service" dt:dt="string" xml:lang="fr-BE">Garantie de 3 ans avec enregistrement du produit</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="fr-BE">unité</custom-attribute>
+<custom-attribute name="Vitesse impression (Couleur)" dt:dt="string" xml:lang="fr-BE">31 ppm</custom-attribute>
+<custom-attribute name="Vitesse impression (N&amp;B)" dt:dt="string" xml:lang="fr-BE">31 ppm</custom-attribute>
+<custom-attribute name="Volume sonore émis" dt:dt="string" xml:lang="fr-BE">64 dBA</custom-attribute>
+<custom-attribute name="WiFi" dt:dt="string" xml:lang="fr-BE">Oui</custom-attribute>
+<custom-attribute name="Aantal papierlades" dt:dt="string" xml:lang="nl-BE">1</custom-attribute>
+<custom-attribute name="Afdruksnelheid Kleur" dt:dt="string" xml:lang="nl-BE">31 ppm</custom-attribute>
+<custom-attribute name="Afdruksnelheid zwart" dt:dt="string" xml:lang="nl-BE">31 ppm</custom-attribute>
+<custom-attribute name="Automatische documenteninvoer" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Benodigde hoeveelheid inktpatronen" dt:dt="string" xml:lang="nl-BE">4</custom-attribute>
+<custom-attribute name="Breedte" dt:dt="string" xml:lang="nl-BE">499.3 mm</custom-attribute>
+<custom-attribute name="Capaciteit Papierlade" dt:dt="string" xml:lang="nl-BE">250 vel</custom-attribute>
+<custom-attribute name="Diepte" dt:dt="string" xml:lang="nl-BE">468.9 mm</custom-attribute>
+<custom-attribute name="Dubbelzijdig printen" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="ENERGY STAR Gecertificeerd" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="EPEAT niveau" dt:dt="string" xml:lang="nl-BE">EPEAT Bronze</custom-attribute>
+<custom-attribute name="EPEAT norm" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Functies" dt:dt="string" xml:lang="nl-BE">
+<value>Printer</value>
+<value>Scanner</value>
+<value>Kopieerapparaat</value>
+<value>Fax</value>
+</custom-attribute>
+<custom-attribute name="Geheugen" dt:dt="string" xml:lang="nl-BE">128 MB</custom-attribute>
+<custom-attribute name="Geluidsproductie" dt:dt="string" xml:lang="nl-BE">64 dBA</custom-attribute>
+<custom-attribute name="Gewicht" dt:dt="string" xml:lang="nl-BE">11.9 kg</custom-attribute>
+<custom-attribute name="Hoogte" dt:dt="string" xml:lang="nl-BE">300.5 mm</custom-attribute>
+<custom-attribute name="Kleur" dt:dt="string" xml:lang="nl-BE">Zwart</custom-attribute>
+<custom-attribute name="Kleurdiepte" dt:dt="string" xml:lang="nl-BE">24-bits</custom-attribute>
+<custom-attribute name="Laadcapaciteit" dt:dt="string" xml:lang="nl-BE">35 vel</custom-attribute>
+<custom-attribute name="Land Kits" dt:dt="string" xml:lang="nl-BE">MO-Afr. (excl Israël, Saudi-Arabië, Zuid-Afrika</custom-attribute>
+<custom-attribute name="MPN" dt:dt="string" xml:lang="nl-BE">A7F64A#A80</custom-attribute>
+<custom-attribute name="Maandelijks papieropbrengst" dt:dt="string" xml:lang="nl-BE">30000 pagina&apos;s</custom-attribute>
+<custom-attribute name="Max. Printresolutie (Kleur)" dt:dt="string" xml:lang="nl-BE">4800 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max. Printresolutie (Zwart-Wit)" dt:dt="string" xml:lang="nl-BE">4800 x 1200 dpi</custom-attribute>
+<custom-attribute name="Max. resolutie bij kopiëren (Kleur)" dt:dt="string" xml:lang="nl-BE">1200 x 600 dpi</custom-attribute>
+<custom-attribute name="Max. resolutie bij kopiëren (Zwart-wit)" dt:dt="string" xml:lang="nl-BE">1200 x 600 dpi</custom-attribute>
+<custom-attribute name="Merk" dt:dt="string" xml:lang="nl-BE">HP</custom-attribute>
+<custom-attribute name="Model" dt:dt="string" xml:lang="nl-BE">8610</custom-attribute>
+<custom-attribute name="Modelnaam" dt:dt="string" xml:lang="nl-BE">Officejet Pro</custom-attribute>
+<custom-attribute name="Network connection available" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Ondersteuning Apps" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Ondersteuning geheugenkaart" dt:dt="string" xml:lang="nl-BE">Nee</custom-attribute>
+<custom-attribute name="Operationeel stroomverbruik" dt:dt="string" xml:lang="nl-BE">29 W</custom-attribute>
+<custom-attribute name="PC-Fax Functie" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="PictBridge compatible" dt:dt="string" xml:lang="nl-BE">Nee</custom-attribute>
+<custom-attribute name="Print technologie" dt:dt="string" xml:lang="nl-BE">Inktjet</custom-attribute>
+<custom-attribute name="Printen vanaf USB" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Product colour" dt:dt="string" xml:lang="nl-BE">Zwart</custom-attribute>
+<custom-attribute name="Productserie" dt:dt="string" xml:lang="nl-BE">HP Officejet Pro</custom-attribute>
+<custom-attribute name="Resolutie scanner" dt:dt="string" xml:lang="nl-BE">1200 x 1200 dpi</custom-attribute>
+<custom-attribute name="Soort artikel" dt:dt="string" xml:lang="nl-BE">All-In-One Inkjet kleurenprinter</custom-attribute>
+<custom-attribute name="Standaard Capaciteit (Aantal Vellen)" dt:dt="string" xml:lang="nl-BE">250 vel</custom-attribute>
+<custom-attribute name="Type (Kantoor Machine)" dt:dt="string" xml:lang="nl-BE">Fax / kopieerapparaat / printer / scanner</custom-attribute>
+<custom-attribute name="Type Diensten" dt:dt="string" xml:lang="nl-BE">3 jaar garantie met productregistratie</custom-attribute>
+<custom-attribute name="Type Fax" dt:dt="string" xml:lang="nl-BE">Gewoon papier</custom-attribute>
+<custom-attribute name="Type Scan Element" dt:dt="string" xml:lang="nl-BE">CIS</custom-attribute>
+<custom-attribute name="Type uitvoer voor afdrukken" dt:dt="string" xml:lang="nl-BE">Kleur</custom-attribute>
+<custom-attribute name="UOM" dt:dt="string" xml:lang="nl-BE">stuk</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Breedte)" dt:dt="string" xml:lang="nl-BE">56.9 cm</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Diepte)" dt:dt="string" xml:lang="nl-BE">37.7 cm</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Gewicht)" dt:dt="string" xml:lang="nl-BE">15.16 kg</custom-attribute>
+<custom-attribute name="Verzendingsmaten (Hoogte)" dt:dt="string" xml:lang="nl-BE">49.2 cm</custom-attribute>
+<custom-attribute name="Werkgeheugen" dt:dt="string" xml:lang="nl-BE">128 MB</custom-attribute>
+<custom-attribute name="WiFi" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+<custom-attribute name="Wireless LAN" dt:dt="string" xml:lang="nl-BE">Ja</custom-attribute>
+</custom-attributes>
+</offer>
+</enfinity>
